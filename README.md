@@ -186,7 +186,9 @@ Permite administrar el acceso de voceros y administradores al sistema:
 > `![Usuarios y Foto de Perfil](capture/10_usuarios.png)`
 
 ### Carnet de todos los integrantes de la comunidad
-> `![Carnet de los usuarios](c/opt/lampp/htdocs/sistema_comunitario/capture/12_carnet.png)`
+> `![Carnet de los usuarios](capture/12_carnet.png)`
+
+![Imagen de Inicio del Sistema](Img_Sistema/Bienvenida.png)
 
 
 ---
