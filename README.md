@@ -112,7 +112,7 @@ Es la pantalla principal de acceso al **Sistema Comunal**. Muestra la imagen ins
 * **Uso:** Haz clic en **Entrar al Sistema**, escribe tu usuario y contraseña, y presiona **Ingresar al Sistema**.
 
 > **[ESPACIO PARA IMAGEN — Portada e inicio de sesión `index.php`]**  
-> `![Portada y Login](imagenes_manual/03_portada_login.png)`
+> `![Portada y Login](capture/1_inicio.png)`
 
 ---
 
