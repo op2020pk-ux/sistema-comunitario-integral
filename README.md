@@ -123,7 +123,7 @@ Muestra el resumen estadístico del censo comunitario y el menú lateral de nave
 * **Uso:** Revisa los contadores generales y selecciona en el menú izquierdo el módulo con el que deseas trabajar.
 
 > **[ESPACIO PARA IMAGEN — Panel Principal `dashboard.php`]**  
-> `![Panel Principal](imagenes_manual/04_dashboard.png)`
+> `![Panel Principal](capture/4_dashboar.png)`
 
 ---
 
@@ -136,7 +136,7 @@ Permite estructurar territorialmente cada Consejo Comunal antes de registrar fam
 * **Viviendas:** Registra casas o apartamentos, tipo de tenencia, condición estructural y servicios básicos (agua, electricidad, gas directo, internet).
 
 > **[ESPACIO PARA IMAGEN — Módulo de Comunidades / Calles / Viviendas]**  
-> `![Territorio y Viviendas](imagenes_manual/05_territorio_viviendas.png)`
+> `![Territorio y Viviendas](capture/6_viviendas.png)`
 
 ---
 
@@ -148,7 +148,7 @@ Gestiona los núcleos familiares y el censo individual de cada ciudadano:
 * **Registrar / Editar Habitante (`registrar_habitante.php` / `editar_habitante.php`):** Permite cargar los datos personales, parentesco, caracterización social/salud y **subir o actualizar la fotografía** (guardada en `fotos/`) para su carnet.
 
 > **[ESPACIO PARA IMAGEN — Registro y Edición de Habitantes con fotografía]**  
-> `![Módulo de Habitantes](imagenes_manual/06_habitantes.png)`
+> `![Módulo de Habitantes](capture/11_configuracion.png)`
 
 ---
 
@@ -159,7 +159,7 @@ Gestiona los núcleos familiares y el censo individual de cada ciudadano:
 * **Fallecidos:** Registra defunciones y desactiva automáticamente al habitante del censo activo mediante el trigger de la base de datos.
 
 > **[ESPACIO PARA IMAGEN — Módulos de Estudiantes, Beneficios y Fallecidos]**  
-> `![Estudiantes Beneficios y Fallecidos](imagenes_manual/07_beneficios_fallecidos.png)`
+> `![Estudiantes Beneficios y Fallecidos](capture/9_beneficios.png)`
 
 ---
 
@@ -171,7 +171,7 @@ Genera credenciales ampliadas listas para imprimir o guardar en PDF:
 * **Carnet Institucional de Usuario (`carnet/carnet_usuario.php`):** Muestra la foto del operador/vocero, rol, cédula, usuario, comunidad y código QR.
 
 > **[ESPACIO PARA IMAGEN — Vista de Carnet de Jefe de Familia y Carnet de Usuario]**  
-> `![Carnets del Sistema](imagenes_manual/08_carnets.png)`
+> `![Carnets del Sistema](capture/12_carnet.png)`
 
 ---
 
@@ -183,7 +183,11 @@ Permite administrar el acceso de voceros y administradores al sistema:
 * **Subir Imagen de Usuario (`img_usuarios/subir_img_usuario.php`):** Permite cambiar de forma rápida la foto de perfil almacenada en `uploads/usuarios/`.
 
 > **[ESPACIO PARA IMAGEN — Gestión de Usuarios y Carga de Imagen]**  
-> `![Usuarios y Foto de Perfil](imagenes_manual/09_usuarios.png)`
+> `![Usuarios y Foto de Perfil](capture/10_usuarios.png)`
+
+### Carnet de todos los integrantes de la comunidad
+> `![Usuarios y Foto de Perfil](capture/12_carnet.png)`
+
 
 ---
 
