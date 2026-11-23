@@ -1,0 +1,15 @@
+# Archivos temporales y del sistema
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*~
+
+# Dependencias o carpetas pesadas comunes
+vendor/
+node_modules/
+
+# Configuraciones locales sensibles (ajusta si usas otro nombre de archivo)
+config/conexion_local.php
+.env
