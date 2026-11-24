@@ -8,14 +8,12 @@
 ## Tabla de Contenidos
 
 1. [Requisitos Previos](#1-requisitos-previos)
-
 2. [Instalación del Sistema](#2-instalación-del-sistema)
    - [2.1 Ubicación de los archivos en XAMPP](#21-ubicación-de-los-archivos-en-xampp)
    - [2.2 Creación e importación de la Base de Datos](#22-creación-e-importación-de-la-base-de-datos)
    - [2.3 Configuración de la conexión](#23-configuración-de-la-conexión)
    - [2.4 Permisos de carpetas de imágenes](#24-permisos-de-carpetas-de-imágenes)
    - [2.5 Primer acceso al sistema](#25-primer-acceso-al-sistema)
-
 3. [Guía de Uso por Módulos](#3-guía-de-uso-por-módulos)
    - [3.1 Módulos del Sistema](#31-módulos-del-sistema)
    - [3.2 Portada e Inicio de Sesión (`index.php`)](#32-portada-e-inicio-de-sesión-indexphp)
@@ -159,7 +157,7 @@ Gestiona los núcleos familiares y el censo individual de cada ciudadano:
 - **Familias:** Agrupa a los integrantes que comparten un núcleo familiar dentro de una vivienda.
 - **Registrar / Editar Habitante (`registrar_habitante.php` / `editar_habitante.php`):** Permite cargar los datos personales, parentesco, caracterización social/salud y **subir o actualizar la fotografía** (guardada en `fotos/`) para su carnet.
 
-> **[PENDIENTE — Colocar aquí la captura de Familias y Habitantes cuando tengas la ruta, por ejemplo: `capture/X_habitantes.png`]**
+![Familias y Habitantes](capture/Familia.png)
 
 ---
 
