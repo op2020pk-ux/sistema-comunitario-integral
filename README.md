@@ -190,12 +190,10 @@ Permite administrar el acceso de voceros y administradores al sistema:
 - **Subir Imagen de Usuario (`img_usuarios/subir_img_usuario.php`):** Permite cambiar de forma rápida la foto de perfil almacenada en `uploads/usuarios/`.
 
 ![Usuarios](capture/10_usuarios.png)
-<<<<<<< HEAD
-=======
 
 ---
 
-## Información del creador
+# Información del creador
 
 - **Desarrollador / Autor:** Dev Omar Pinto
 - **Ubicación:** La Victoria, Estado Aragua, Venezuela
@@ -208,4 +206,4 @@ Permite administrar el acceso de voceros y administradores al sistema:
 > **Nota para los usuarios:** Si encuentras algún error, necesitas apoyo con la instalación local o deseas sugerir mejoras para el **Sistema Comunitario Integral**, comunícate por cualquiera de los canales indicados arriba indicando el módulo o pantalla donde ocurrió la consulta (y, si es posible, adjunta una captura de pantalla).
 
 > **Nota para los usuarios:** Pueden hacerme llegar cualquier duda al correo **sistema.edu.op@gmail.com** o por medio de un **WhatsApp** indicándome sus dudas. **¡GRACIAS!**
->>>>>>> ee6ad22 (Actualización de múltiples carpetas en el sistema comunitario)
+
